@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Thabiso Phefo, Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1f2a44" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)" opacity="0.55"/>
+  <ellipse cx="980" cy="40" rx="280" ry="160" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#bar)"/>
+
+  <g stroke="#58a6ff" stroke-width="1.5" fill="none" opacity="0.7">
+    <path d="M24 48 V24 H48"/>
+    <path d="M1176 48 V24 H1152"/>
+    <path d="M24 292 V316 H48"/>
+    <path d="M1176 292 V316 H1152"/>
+  </g>
+
+  <text x="48" y="78" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="4">01  /  PROFILE</text>
+
+  <text x="48" y="150" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">Thabiso Phefo</text>
+  <text x="48" y="192" fill="#58a6ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1.5">FULL STACK ENGINEER</text>
+
+  <text x="48" y="236" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Cape Town  |  Web  |  Mobile  |  Cloud</text>
+
+  <rect x="48" y="262" width="132" height="28" rx="14" fill="#122033" stroke="#238636"/>
+  <circle cx="68" cy="276" r="4" fill="#3fb950"/>
+  <text x="82" y="280" fill="#3fb950" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">SHIPPING</text>
+
+  <g transform="translate(980, 92)">
+    <rect x="0" y="0" width="148" height="148" rx="28" fill="#122033" stroke="#30363d"/>
+    <text x="74" y="92" text-anchor="middle" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700">TP</text>
+  </g>
+</svg>
