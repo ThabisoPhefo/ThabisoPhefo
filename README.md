@@ -77,8 +77,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ThabisoPhefo/azonia-banking">
-        <img src="./assets/cards/azonia.svg" alt="Azonia Banking" width="100%" />
+      <a href="https://github.com/ThabisoPhefo/dispute-portal">
+        <img src="./assets/cards/dispute.svg" alt="Dispute Portal" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
