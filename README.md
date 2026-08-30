@@ -1,84 +1,80 @@
-<h1 align="center">Thabiso Phefo</h1>
-
-###
-
-<h3 align="center">👨‍💻 📌 About Me:</h3>
-
-###
-
-<p align="center">I am Thabiso, a Full Stack Developer focused on designing, developing, and maintaining web and mobile applications. My expertise spans from the front-end to back-end development, with a strong focus on building scalable, maintainable, and performant solutions.<br><br>🔧 Technical Focus<br>	•	Front-End: React.js, Next.js, TypeScript, Tailwind CSS<br>	•	Back-End: Node.js, .NET Core, RESTful APIs, Django<br>	•	Databases: PostgreSQL, SQL, NoSQL<br>	•	Tools & Platforms: Git, Supabase, AWS, Docker<br><br>🌱 Key Interests:<br>	•	Expanding my expertise in C# and cloud technologies<br>	•	Developing personal projects to gain more knowledge and skill <br>	•	Contributing to open-source and collaborative projects<br>	•	Enhancing skills in system design, cloud deployment, and microservices<br>	•	Designing user-centric applications with responsive and accessible UI<br>	•	Working with geospatial data and real-time applications</p>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Thabiso+Phefo;Full+Stack+Engineer" alt="Thabiso Phefo" />
+
+  <p>
+    Cape Town · Software Engineer<br />
+    I design, build, and operate web and mobile systems - typed clients, APIs, data models, and cloud deployments.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/thabiso-phefo-620119276">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/ThabisoPhefo">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
-###
+---
+
+```ts
+const engineer = {
+  name: "Thabiso Phefo",
+  role: "Full Stack Engineer",
+  domains: ["web", "mobile", "cloud"],
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", ".NET Core", "Django", "REST"],
+    data: ["PostgreSQL", "Supabase", "SQL", "NoSQL"],
+    platform: ["AWS", "GCP", "Azure DevOps", "Docker", "Kubernetes", "Git"],
+  },
+  currently: ["C#", "system design", "microservices", "geospatial", "realtime"],
+};
+```
+
+I ship end-to-end product surfaces: accessible UIs, service boundaries, and the infrastructure that keeps them maintainable under load. Day-to-day work sits across React / Next.js on the client, Node and .NET on the server, and PostgreSQL or document stores depending on the access pattern.
+
+**Current focus**
+- Deepening C# / .NET and cloud architecture
+- System design, deployment topology, and microservice boundaries
+- Geospatial data and realtime application patterns
+- Open-source and collaborative engineering
+
+---
+
+## Stack
+
+Grouped by layer - not a logo dump.
+
+| Layer | What I use |
+| :--- | :--- |
+| **Client** | TypeScript, React, Next.js, Tailwind CSS, Vue, GraphQL |
+| **Service** | Node.js, Express, NestJS, C# / .NET Core, Python, Django, Flask |
+| **Data** | PostgreSQL, Supabase, SQL Server, MySQL, MongoDB |
+| **Platform** | AWS, GCP, Azure DevOps, Docker, Kubernetes, Kafka, Git |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vue,graphql,nodejs,express,nestjs,cs,dotnet,py,django,flask" alt="Client and service stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,aws,gcp,azuredevops,docker,kubernetes,kafka,git" alt="Data and platform stack" />
+</p>
+
+---
+
+## Selected systems
+
+Public work that shows how I approach product and platform problems.
+
+| System | Problem | Notes |
+| :--- | :--- | :--- |
+| [Azonia Banking](https://github.com/ThabisoPhefo/azonia-banking) | Personal finance operations in a modern banking UI | Product-facing flows for accounts and money movement |
+| [Capitec Branch Locator](https://github.com/ThabisoPhefo/capitec-branch-locator) | Finding physical branches without a dated locator UX | Geospatial UI redesign — maps, location, and search |
+| [Flag Explorer](https://github.com/ThabisoPhefo/flag-explorer-app) | Browsing country metadata across a split stack | React client over a FastAPI service |
+| [Medcare Dashboard](https://github.com/ThabisoPhefo/Medcare-Dashboard) | Operational view of clinical data | Dashboard surface driven by mock datasets |
+
+---
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
+  <sub>Building systems that stay readable after they ship.</sub>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="apachekafka logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-</div>
-
-###
